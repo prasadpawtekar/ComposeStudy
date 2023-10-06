@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CodeLab1</string>
+    <string name="title_activity_on_boarding">OnBoardingActivity</string>
+    <string name="title_activity_lazy_column">LazyColumnActivity</string>
 </resources>
